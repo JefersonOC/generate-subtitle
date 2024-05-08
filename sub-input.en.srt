@@ -1,0 +1,100 @@
+1 
+00:00:7,000 --> 00:00:10,000 
+ Excuse me? Excuse me? Sorry. Do you speak English? 
+
+2 
+00:00:10,000 --> 00:00:12,000 
+ No, I don't. Sorry. 
+
+3 
+00:00:12,000 --> 00:00:17,000 
+ My car's broken down and I wondered if you could tell me where to find a garage. 
+
+4 
+00:00:17,000 --> 00:00:21,000 
+ Well, you know, that's wasted on me. I don't understand what you're saying. 
+
+5 
+00:00:21,000 --> 00:00:23,000 
+ I don't speak any English at all. 
+
+6 
+00:00:23,000 --> 00:00:26,000 
+ Not a word, no. It's one of those things where I wish I paid more attention in school. 
+
+7 
+00:00:26,000 --> 00:00:30,000 
+ Excuse me? Excuse me? Sorry. Do you speak any English? 
+
+8 
+00:00:30,000 --> 00:00:33,000 
+ English? No. What's the problem? 
+
+9 
+00:00:33,000 --> 00:00:35,000 
+ I don't know. I can't understand it. 
+
+10 
+00:00:35,000 --> 00:00:39,000 
+ Hi. My car's broken down and I need to find a garage. 
+
+11 
+00:00:41,000 --> 00:00:44,000 
+ No, I'm sorry. I didn't understand that at all. 
+
+12 
+00:00:45,000 --> 00:00:48,000 
+ All right. Well, thanks. 
+
+13 
+00:00:48,000 --> 00:00:51,000 
+ Tell you what, if you go down that way, about half a mile, there's a village. 
+
+14 
+00:00:51,000 --> 00:00:53,000 
+ There might be somebody there that speaks English. 
+
+15 
+00:00:53,000 --> 00:00:57,000 
+ I speak a little bit of German. Do you speak German? 
+
+16 
+00:00:57,000 --> 00:00:59,000 
+ German? No. Do you speak German? 
+
+17 
+00:00:59,000 --> 00:01:4,000 
+ German? No. Well, no. It's two words, but I'm not fluent. 
+
+18 
+00:01:4,000 --> 00:01:6,000 
+ So I'm sorry if you don't want to help. 
+
+19 
+00:01:6,000 --> 00:01:7,000 
+ Yeah, sorry about that. 
+
+20 
+00:01:7,000 --> 00:01:10,000 
+ Hey, you never know. Next time you're over, maybe we'll have learned a bit of English for you. 
+
+21 
+00:01:10,000 --> 00:01:11,000 
+ Yeah, or maybe you speak German. 
+
+22 
+00:01:11,000 --> 00:01:13,000 
+ Yeah, that would be great. 
+
+23 
+00:01:13,000 --> 00:01:15,000 
+ Thanks anyway. 
+
+24 
+00:01:18,000 --> 00:01:21,000 
+ I can speak English. So can I. 
+
+25 
+00:01:23,000 --> 00:01:26,000 
+ Thank you. 
+
